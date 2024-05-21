@@ -9,6 +9,4 @@ __Eficiencia__: Realiza tareas rápidamente sin necesidad de interactuar con la 
 
 __Automatización__: Ideal para integrarse en pipelines de CI/CD y automatizar procesos.
 
-__Flexibilidad__: Permite a los usuarios realizar operaciones complejas mediante comandos simples.
-
 __Consistencia__: Asegura que las operaciones se realicen de manera uniforme cada vez que se ejecutan.
