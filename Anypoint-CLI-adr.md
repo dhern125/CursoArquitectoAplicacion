@@ -5,7 +5,10 @@ Anypoint CLI es una herramienta de línea de comandos que facilita la gestión, 
 
 ## Why / Use-case
 
-### Eficiencia: Realiza tareas rápidamente sin necesidad de interactuar con la interfaz gráfica.
-### Automatización: Ideal para integrarse en pipelines de CI/CD y automatizar procesos.
-### Flexibilidad: Permite a los usuarios realizar operaciones complejas mediante comandos simples.
-### Consistencia: Asegura que las operaciones se realicen de manera uniforme cada vez que se ejecutan.
+__Eficiencia__: Realiza tareas rápidamente sin necesidad de interactuar con la interfaz gráfica.
+
+__Automatización__: Ideal para integrarse en pipelines de CI/CD y automatizar procesos.
+
+__Flexibilidad__: Permite a los usuarios realizar operaciones complejas mediante comandos simples.
+
+__Consistencia__: Asegura que las operaciones se realicen de manera uniforme cada vez que se ejecutan.
